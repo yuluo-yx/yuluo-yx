@@ -21,6 +21,6 @@ I want to be an interesting person and create something that can be remembered b
 
 - 🔭 I’m currently writing some amateur open source projects, study at Longdong College.  <br>
 - 🌱 I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
-- 🤔 I want to make a Brush questions online evaluation system,I call it XOJ@xoj-ssm. <br>
+- 🤔 I want to make a Brush questions online evaluation system,I call it XOJ[@xoj-ssm](https://github.com/yuluo-yx/xoj-ssm). <br>
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. <br>
 - 💬  Be free to ask me about anything @yuluo08290126@gmail.com. <br>
