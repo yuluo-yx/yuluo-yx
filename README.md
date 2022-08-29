@@ -26,7 +26,7 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ &nbsp; I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. <br>
 - 💬 &nbsp; Be free to ask me about anything @yuluo08290126@gmail.com. <br>
 <br>
-<hr>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=yuluo&show_icons=true)
 
