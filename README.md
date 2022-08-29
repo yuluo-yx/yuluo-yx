@@ -28,6 +28,7 @@ I want to be an interesting person and create something that can be remembered b
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=yuluo&show_icons=true)
+
+<img src="![](https://github-readme-stats.vercel.app/api?username=yuluo&show_icons=true)">
 
 
