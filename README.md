@@ -23,4 +23,4 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
 - 🤔 I want to make a Brush questions online evaluation system,I call it XOJ. <br>
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. <br>
-- 💬 Be free to ask me about anything here. <br>
+- 💬  Be free to ask me about anything @yuluo08290126@gmail.com. <br>
