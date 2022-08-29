@@ -27,8 +27,7 @@ I want to be an interesting person and create something that can be remembered b
 - 💬 &nbsp; Be free to ask me about anything @yuluo08290126@gmail.com. <br>
 <br>
 
+![`yuluo`'s Github stats](https://github-readme-stats.vercel.app/api?username=`yuluo`&show_icons=true)
 
-
-[](https://github-readme-stats.vercel.app/api?username=yuluo&show_icons=true)
 
 
