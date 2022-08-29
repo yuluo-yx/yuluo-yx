@@ -1,14 +1,14 @@
-### Hi there, I'm yuluo. 👋
+### Hi there, I'm yuluo.  &nbsp;👋
 
 <!--
 **yuluo-yx/yuluo-yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 &nbsp; I’m currently working on ...
+- 🌱 &nbsp; I’m currently learning ...
+- 👯 &nbsp; I’m looking to collaborate on ...
+- 🤔 &nbsp; I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -19,11 +19,11 @@ I want to be an interesting person and create something that can be remembered b
 
 <hr>
 
-- 🔭 I’m currently writing some amateur open source projects, study at Longdong College.  <br>
-- 🌱 I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
-- 🤔 I want to make a Brush questions online evaluation system,I call it XOJ[@xoj-ssm](https://github.com/yuluo-yx/xoj-ssm). <br>
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. <br>
-- 💬  Be free to ask me about anything @yuluo08290126@gmail.com. <br>
+- 🔭 &nbsp; I’m currently writing some amateur open source projects, study at Longdong College.  <br>
+- 🌱 &nbsp; I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
+- 🤔 &nbsp; I want to make a Brush questions online evaluation system,I call it XOJ[@xoj-ssm](https://github.com/yuluo-yx/xoj-ssm). <br>
+- ❤️ &nbsp; I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. <br>
+- 💬 &nbsp; Be free to ask me about anything @yuluo08290126@gmail.com. <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=yuluo&show_icons=true)
 
