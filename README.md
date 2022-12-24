@@ -27,7 +27,7 @@ I want to be an interesting person and create something that can be remembered b
 </span>
 
 <br>
-- 🌐 web开发语言 <br>
+- 🌐 web前端开发语言 <br>
 <span style="display:inline-block">
 <img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"> <img src="https://camo.githubusercontent.com/6d9cf12bf24b856ecef36b7e3bea1a4092a6c8c1f3f09add075b937aa15d1048/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6f72696e67653f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074">
 <img src="https://img.shields.io/badge/TS-TypeScript-rgb(60%2C%20132%2C%20204)"/>
@@ -48,6 +48,10 @@ I want to be an interesting person and create something that can be remembered b
 <img src="https://camo.githubusercontent.com/6a4c7b9e332e9c5621cb93c7f395e87ea2a02f3accd064820713cc8251df0add/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368726f6d652d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d476f6f676c654368726f6d65266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">
 <img src="https://camo.githubusercontent.com/e76bd64e39b4566557c2fb1fd8097cacd415c60ea97f2ed25fb1446e9ba77890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f6c6f676f3d4c696e7578266c6f676f436f6c6f723d626c61636b" />
+  <img src="https://img.shields.io/badge/TS-TypeScript-rgb(60%2C%20132%2C%20204)"/>
+  <img src="https://img.shields.io/badge/IDEA-Intellig-IDEA-rgb(219%2C%20203%2C%2069)"/>
+  <img src="https://img.shields.io/badge/MD-markdown-rgb(32%2C%2033%2C%2036)"/>
+  <img src="https://img.shields.io/badge/VIM-vim-rgb(6%2C%20151%2C%200)"/>
 </span>
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
