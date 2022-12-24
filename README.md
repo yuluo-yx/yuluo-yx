@@ -10,8 +10,8 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 &nbsp; I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
 - 🤔 &nbsp; I want to make a Brush questions online evaluation system,I call it Xcode Online Judge[@XOJ](https://github.com/yuluo-yx/xoj-front). <br>
 - ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br>
-- 💬 &nbsp; Be free to ask me about anything [@email](yuluo08290126@gmail.com).
-
+- 💬 Be free to ask me about anything [here](https://github.com/yuluo-yx/yuluo-yx/issues).
+- 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
 <!-- code.gif -->
@@ -53,6 +53,7 @@ I want to be an interesting person and create something that can be remembered b
   <img src="https://img.shields.io/badge/IDEA-Intellig IDEA-rgb(219%2C%20203%2C%2069)"/>
   <img src="https://img.shields.io/badge/MD-markdown-rgb(32%2C%2033%2C%2036)"/>
   <img src="https://img.shields.io/badge/VIM-vim-rgb(6%2C%20151%2C%200)"/>
+  <img src="https://img.shields.io/badge/scss-SCSS-rgb(135%2C%20167%2C%20255)" />
 </span>
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
