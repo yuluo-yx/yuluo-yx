@@ -9,8 +9,8 @@ I want to be an interesting person and create something that can be remembered b
 - 🔭 &nbsp; I’m currently writing some amateur open source projects, study at Longdong College.  <br>
 - 🌱 &nbsp; I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
 - 🤔 &nbsp; I want to make a Brush questions online evaluation system,I call it Xcode Online Judge [@XOJ](https://github.com/yuluo-yx/xoj-front). <br>
-- ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br>  amateur [open source projects](https://github.com/YunYouJun?tab=repositories),
-- 💬 Be free to ask me about anything [here](https://github.com/yuluo-yx/yuluo-yx/issues).
+- ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
+- 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</>.
 - 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
