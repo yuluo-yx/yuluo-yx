@@ -49,7 +49,7 @@ I want to be an interesting person and create something that can be remembered b
 <img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">
 <img src="https://camo.githubusercontent.com/e76bd64e39b4566557c2fb1fd8097cacd415c60ea97f2ed25fb1446e9ba77890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f6c6f676f3d4c696e7578266c6f676f436f6c6f723d626c61636b" />
   <img src="https://img.shields.io/badge/TS-TypeScript-rgb(60%2C%20132%2C%20204)"/>
-  <img src="https://img.shields.io/badge/IDEA-Intellig-IDEA-rgb(219%2C%20203%2C%2069)"/>
+  <img src="https://img.shields.io/badge/IDEA-Intellig IDEA-rgb(219%2C%20203%2C%2069)"/>
   <img src="https://img.shields.io/badge/MD-markdown-rgb(32%2C%2033%2C%2036)"/>
   <img src="https://img.shields.io/badge/VIM-vim-rgb(6%2C%20151%2C%200)"/>
 </span>
