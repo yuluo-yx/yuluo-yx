@@ -15,7 +15,7 @@ I want to be an interesting person and create something that can be remembered b
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
 <!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="250" />
 
 <h3>🛠 Tech Stack</h3>
 - 💻 使用的编程语言 <br>
