@@ -1,5 +1,8 @@
 ### Hi there, I'm yuluo.  &nbsp;👋
 
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+
 I like open source and all interesting things and want to try to do it.
 I want to be an interesting person and create something that can be remembered by others.
 
