@@ -9,9 +9,9 @@ I want to be an interesting person and create something that can be remembered b
 <hr>
 
 <h3>😉 About Me</h3>
-- 🔭 &nbsp; I’m currently writing some amateur open source projects, study at Longdong College.  <br>
-- 🌱 &nbsp; I’m currently learning Spring&java&microservices, and want to learn everything interesting. <br>
-- 🤔 &nbsp; I want to make a Brush questions online evaluation system,I call it Xcode Online Judge <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/xoj-front.git">@XOJ</a>. <br>
+- 🔭 &nbsp; I am currently participating in some open source projects and preparing to participate in school recruitment.  <br>
+- 🌱 &nbsp; I'm currently learning about cloud native and Golang, want to touch some new technologies and things <br>
+- 🤔 &nbsp; I used Spring Cloud Alibaba to build a set of microservice development scaffolding, which I called "yuluo-microservices-framework". <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="[https://github.com/yuluo-yx/xoj-front.git](https://github.com/yuluo-yx/yuluo-microservices-cloud)">@XOJ</a>. <br>
 - ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
 - 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
