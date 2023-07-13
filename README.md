@@ -22,7 +22,6 @@ I want to be an interesting person and create something that can be remembered b
 <h3>🛠 Tech Stack</h3>
 - 💻 使用的编程语言
 <br>
-<br>
 <span style="style="display:inline-block">
 <img src="https://camo.githubusercontent.com/2e2241112628f02b6133d06380981d22ef77a4a54ae68d52a84a100dd2b6e11d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d6a617661">
 <img src="https://camo.githubusercontent.com/afead642512a74e15ec2da19d89fbee647cde5dfe09025ad1ea82acbedabf967/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d70696e6b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
@@ -30,9 +29,7 @@ I want to be an interesting person and create something that can be remembered b
 
 </span>
 <br>
-<br>
 - 🌐 web前端开发语言
-<br>
 <br>
 <span style="display:inline-block">
 <img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"> <img src="https://camo.githubusercontent.com/6d9cf12bf24b856ecef36b7e3bea1a4092a6c8c1f3f09add075b937aa15d1048/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6f72696e67653f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074">
@@ -40,10 +37,8 @@ I want to be an interesting person and create something that can be remembered b
 </span>
                                                                                
 <br>
-<br>
 -  🔨框架和工具
 <br>     
-<br>
 <span style="display:inline-block">
   <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/go-original.svg" alt="go" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/vuejs-original.svg" alt="vuejs" width="40" height="40" />
