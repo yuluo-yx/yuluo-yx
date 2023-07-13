@@ -56,11 +56,11 @@ I want to be an interesting person and create something that can be remembered b
   <img src="https://img.shields.io/badge/MD-markdown-rgb(32%2C%2033%2C%2036)"/>
   <img src="https://img.shields.io/badge/VIM-vim-rgb(6%2C%20151%2C%200)"/>
   <img src="https://img.shields.io/badge/scss-SCSS-rgb(135%2C%20167%2C%20255)" />
-  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/go-original.svg" />
-  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/vuejs-original.svg" />
-  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/linux-original.svg" />
-  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/docker.svg" />
-  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/kubernetes-plain.svg" />
+  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/go-original.svg" alt="go" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/docker.svg" alt="docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/iswbm/iswbm/main/assets/kubernetes-plain.svg" alt="kubevirt" width="40" height="40" />
 </span>
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
