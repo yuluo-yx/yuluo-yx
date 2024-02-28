@@ -10,7 +10,8 @@ I want to be an interesting person and create something that can be remembered b
 
 <h3>😉 About Me</h3>
 - 🔭 &nbsp; I'm currently participating in some open source projects and preparing for work. <br>
-- 🌱 &nbsp; I'm interested in envoy, service mesh(istio), microservices(spring cloud alibaba) and am exploring and learning them. <br>
+- 🌱 &nbsp; I'm interested in Java & Golang. <br>
+- 🍃 &nbsp; I'm learning and exploring service mesh & envoy & spring-cloud-alibaba. <br>
 - 🤔 &nbsp; I used Spring Cloud Alibaba to build a set of microservice development scaffolding, which I called <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>. <br>
 - ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
 - 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
