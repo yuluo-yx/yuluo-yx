@@ -17,7 +17,7 @@ I want to be interesting and create something that others can remember.
 - 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
-- 😆 &nbsp; I'm a committer for spring-cloud-alibaba.
+- 😆 &nbsp; I'm a committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba).
 
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="250" />
