@@ -6,6 +6,8 @@
 I like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
+**正在寻找一份 Java 基础架构/业务开发 or 云原生相关工作！求捞 🚀**
+
 <hr>
 
 <h3>😉 About Me</h3>
