@@ -12,18 +12,16 @@ I want to be interesting and create something that others can remember.
 
 <h3>😉 About Me</h3>
 
-- 🔭 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
+🔭 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
+🌱 &nbsp; I'm interested in Java & Golang. <br>
+🍃 &nbsp; I'm learning and exploring service mesh & envoy & spring-cloud-alibaba. <br>
+❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
+💬 &nbsp; Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 
-- 🌱 &nbsp; I'm interested in Java & Golang. <br>
+😆 &nbsp; I'm a committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba).
 
-- 🍃 &nbsp; I'm learning and exploring service mesh & envoy & spring-cloud-alibaba. <br>
-
-- ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
-
-- 💬 &nbsp; Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
-- 😆 &nbsp; I'm a committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba).
 
 <h3>Project Exploration</h3>
 - &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <be>
