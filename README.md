@@ -14,12 +14,13 @@ I want to be interesting and create something that others can remember.
 - 🔭 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
 - 🌱 &nbsp; I'm interested in Java & Golang. <br>
 - 🍃 &nbsp; I'm learning and exploring service mesh & envoy & spring-cloud-alibaba. <br>
-- 🤔 &nbsp; I used Spring Cloud Alibaba to build a set of microservice development scaffolding, which I called <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>. <br>
 - ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
 - 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
 - 😆 &nbsp; I'm a committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba).
 
-<!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="250" />
+<h3>Project Exploration</h3>
+- <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>, used Spring Cloud Alibaba to build a set of microservice development scaffolding. <br>
+- <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br>
+- <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/gh-retest">Github Pull Request Retest Actions</a>, the ci utility written by go to re-execute ci via /retest when pr workflows fail to run. <br>
