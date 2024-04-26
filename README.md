@@ -11,16 +11,23 @@ I want to be interesting and create something that others can remember.
 <hr>
 
 <h3>😉 About Me</h3>
+
 - 🔭 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
+
 - 🌱 &nbsp; I'm interested in Java & Golang. <br>
+
 - 🍃 &nbsp; I'm learning and exploring service mesh & envoy & spring-cloud-alibaba. <br>
+
 - ❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
+
 - 💬 &nbsp; Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
 - 😆 &nbsp; I'm a committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba).
 
 <h3>Project Exploration</h3>
-- &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br>
-- &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>, used Spring Cloud Alibaba to build a set of microservice development scaffolding. <br>
+- &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <be>
+
+- &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>, used Spring Cloud Alibaba to build a set of microservice development scaffolding. <be>
+
 - &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/gh-retest">Github Pull Request Retest Actions</a>, the ci utility written by go to re-execute ci via /retest when pr workflows fail to run. <br>
