@@ -18,8 +18,8 @@ I want to be interesting and create something that others can remember.
 
 <h3>😆 Open source contributions</h3>
 
-- &nbsp; Committer for [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
-- &nbsp; PMC Member for [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba.git).
+- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
+- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git).
 
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
