@@ -18,9 +18,9 @@ I want to be interesting and create something that others can remember.
 
 <h3>😆 Open source contributions</h3>
 
-- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
 - &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git).
-- &nbsp; [A2A2J](https://github.com/a2ap/a2a4j) This is a community-driven initiative. Most contributors are Apache committers. I am contributing to this, Welcome to pay attention. 🚀
+- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
+- &nbsp; [A2A2J](https://github.com/a2ap/a2a4j): This is a community-driven initiative, Java implementation of A2A protocol. Most contributors are Apache committers. Welcome to pay attention. 🚀
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
