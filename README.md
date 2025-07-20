@@ -20,7 +20,7 @@ I want to be interesting and create something that others can remember.
 
 - &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git).
 - &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
-- &nbsp; Istio, Apache Member
+- &nbsp; Istio, Apache, Dromara Member
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
