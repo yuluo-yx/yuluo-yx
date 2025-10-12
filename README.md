@@ -23,7 +23,7 @@ I want to be interesting and create something that others can remember.
 
 <h3>Project Exploration</h3>
 
-&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br><br>
-&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/design-pattern">Design pattern Java and Go impl</a>, implement 23 design patterns using Java and Go.
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br>
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/design-pattern">Design pattern Java and Go impl</a>, implement 23 design patterns using Java and Go.<br>
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>, used Spring Cloud Alibaba to build a set of microservice development scaffolding.
 
