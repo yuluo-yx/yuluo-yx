@@ -1,9 +1,6 @@
 ### Hi there, I'm yuluo.  &nbsp;👋
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-
-I like open source and all interesting things and want to try to do it. <br>
+Like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
 <hr>
@@ -18,14 +15,15 @@ I want to be interesting and create something that others can remember.
 
 <h3>😆 Open source contributions</h3>
 
-- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git).
-- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba), [Apache Hertzbeat](https://github.com/apache/hertzbeat) & [API-Testing](https://github.com/LinuxSuRen/api-testing);
-- &nbsp; Istio, Apache, Dromara Member
+- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git);
+- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)/[Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing);
+- &nbsp; Contributor for [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)/[Istio](https://github.com/istio/istio)/[Apache Shenyu](https://github.com/apache/shenyu);
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
-
 
 <h3>Project Exploration</h3>
 
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br><br>
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/design-pattern">Design pattern Java and Go impl</a>, implement 23 design patterns using Java and Go.
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-microservices-cloud">yuluo-microservices-framework</a>, used Spring Cloud Alibaba to build a set of microservice development scaffolding.
+
