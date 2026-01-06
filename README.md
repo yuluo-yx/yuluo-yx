@@ -15,9 +15,9 @@ I want to be interesting and create something that others can remember.
 
 <h3>😆 Open source contributions</h3>
 
-- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git);
-- &nbsp; Committer for [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)/[Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu);
-- &nbsp; Contributor for [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)/[Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation).
+- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git)/[Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba);
+- &nbsp; Committer for [Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu)/[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router);
+- &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation).
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
