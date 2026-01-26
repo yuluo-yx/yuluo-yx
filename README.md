@@ -24,5 +24,5 @@ I want to be interesting and create something that others can remember.
 <h3>Project Exploration</h3>
 
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br><br>
-&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="[https://github.com/yuluo-yx/yuluo-microservices-cloud](https://github.com/deigmata-paideias/typo)">Typo</a>, Like thefuck, but he uses Go to implement it more intelligently.
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/deigmata-paideias/typo">Typo</a>, Like thefuck, but he uses Go to implement it more intelligently.<br><br>
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/design-pattern">design-pattern</a>, implement 23 design patterns using Java and Go.<br><br>
