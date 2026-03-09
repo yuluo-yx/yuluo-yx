@@ -3,6 +3,8 @@
 Like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
+> Looking for new job opportunities... 👀
+
 <hr>
 
 <h3>😉 About Me</h3>
