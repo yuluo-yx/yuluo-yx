@@ -3,17 +3,12 @@
 Like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
+I'm interested in Java & Golang. <br>
+I'm learning and exploring AI & Traffic management & MicroServices <br>
+
 > Looking for new job opportunities... 👀
 
 <hr>
-
-<h3>😉 About Me</h3>
-
-🔭 &nbsp; I'm currently participating in some open-source projects and preparing for work. <br>
-🌱 &nbsp; I'm interested in Java & Golang. <br>
-🍃 &nbsp; I'm learning and exploring AI & Traffic management & MicroServices <br>
-❤️ &nbsp; I like eating 😍, coding 💻, playing 🏓 and basketball 🏀, sleeping in 🛌. <br> 
-💬 &nbsp; Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/yuluo-yx/issues">here</a>.
 
 <h3>😆 Open source contributions</h3>
 
