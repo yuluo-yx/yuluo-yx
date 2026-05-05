@@ -1,16 +1,14 @@
-### Hi there, I'm yuluo.  &nbsp;👋
-
-Like open source and all interesting things and want to try to do it. <br>
+I'm **yuluo**. &nbsp; ike open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
 I'm interested in Java & Golang. <br>
-I'm learning and exploring AI & Traffic management & MicroServices <br>
+I'm learning and exploring **AI & Traffic management & MicroServices** <br>
 
 > Looking for new job opportunities... 👀
 
 <hr>
 
-<h3>😆 Open source contributions</h3>
+<h4>Open source contributions</h4>
 
 - &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git)/[Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba);
 - &nbsp; Committer for [Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu)/[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router);
@@ -18,7 +16,7 @@ I'm learning and exploring AI & Traffic management & MicroServices <br>
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
-<h3>Project Exploration</h3>
+<h4>Project Exploration</h4>
 
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br><br>
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/typo">Typo</a>, Like thefuck, but he uses Go to implement it more intelligently.<br><br>
