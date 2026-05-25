@@ -1,4 +1,4 @@
-I'm **yuluo**. &nbsp; ike open source and all interesting things and want to try to do it. <br>
+I'm **yuluo**. &nbsp; like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
 I'm interested in Java & Golang. <br>
