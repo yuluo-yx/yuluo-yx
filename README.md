@@ -4,6 +4,8 @@ I want to be interesting and create something that others can remember.
 I'm interested in Java & Golang. <br>
 I'm learning and exploring **AI & Traffic management & MicroServices** <br>
 
+Currently working on [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git) and [AgentScope Go](https://github.com/yuluo-yx/agentscope-go). Enjoy it.
+
 > Looking for new job opportunities... 👀
 
 <hr>
