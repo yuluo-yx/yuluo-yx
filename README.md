@@ -12,9 +12,9 @@ Currently working on [Spring AI Alibaba](https://github.com/alibaba/spring-ai-al
 
 <h4>Open source contributions</h4>
 
-- &nbsp; PMC Member for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git)/[Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba);
+- &nbsp; Maintainer for [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git)/[Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)/[AgentScope Go](https://github.com/yuluo-yx/agentscope-go);
 - &nbsp; Committer for [Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu)/[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router);
-- &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation).
+- &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation)/[Kueue](https://github.com/kubernetes-sigs/kueue).
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
