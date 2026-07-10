@@ -6,8 +6,6 @@ I'm learning and exploring **AI & Traffic management & MicroServices** <br>
 
 Currently working on [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git) and [AgentScope Go](https://github.com/yuluo-yx/agentscope-go). Enjoy it.
 
-> Looking for new job opportunities... 👀
-
 <hr>
 
 <h4>Open source contributions</h4>
