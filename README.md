@@ -11,7 +11,7 @@ Currently working on [Spring AI Alibaba](https://github.com/alibaba/spring-ai-al
 <h4>Open source contributions</h4>
 
 - &nbsp; [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git) Cofounder;
-- [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba.git) PMC Member;
+- &nbsp; [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba.git) PMC Member;
 - &nbsp; Committer for [Apache Hertzbeat](https://github.com/apache/hertzbeat)/[API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu)/[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router);
 - &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation)/[Kueue](https://github.com/kubernetes-sigs/kueue).
 
