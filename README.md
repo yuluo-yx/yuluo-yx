@@ -2,7 +2,7 @@ I'm **Shown**; you can also call me **Musheng**. <br>
 I like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
-I'm interested in Java & Golang. <br>
+I'm interested in Java & Go. <br>
 I'm learning and exploring **AI & Traffic management & MicroServices** <br>
 
 Currently working on AI Infra, for K8s GPU scheduling.
