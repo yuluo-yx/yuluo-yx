@@ -5,7 +5,7 @@ I want to be interesting and create something that others can remember.
 I'm interested in Java & Go. <br>
 I'm learning and exploring **AI & Traffic management & MicroServices** <br>
 
-Currently working on AI Infra, for K8s GPU scheduling.
+Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 
 <hr>
 
