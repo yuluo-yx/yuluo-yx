@@ -21,5 +21,5 @@ Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 <h4>Project Exploration</h4>
 
 &nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/use">use</a>, organizing with IDEA and Mac & windows and vim. <br><br>
-&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/typo">Typo</a>, Like thefuck, but he uses Go to implement it more intelligently.<br><br>
-&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/design-pattern">design-pattern</a>, implement 23 design patterns using Java and Go.<br><br>
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/typo">Typo</a>, a cross-platform cli tool, Like thefuck, but he uses Go to implement it more intelligently.<br><br>
+&nbsp; <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/yuluo-yx/mory">Mory</a>, a cross-platform Markdown editor, uses a native desktop host and a shared editing core, preserving pure Markdown files while providing a WYSIWYG writing experience.<br><br>
