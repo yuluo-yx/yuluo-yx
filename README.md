@@ -14,7 +14,7 @@ Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 - &nbsp; [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba.git) Cofounder;
 - &nbsp; [Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba.git)/[Apache Hertzbeat](https://github.com/apache/hertzbeat) PMC Member;
 - &nbsp; Committer for [API-Testing](https://github.com/LinuxSuRen/api-testing)/[Apache Shenyu](https://github.com/apache/shenyu)/[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router);
-- &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation)/[Kueue](https://github.com/kubernetes-sigs/kueue).
+- &nbsp; Contributor for [Istio](https://github.com/istio/istio)/[Spring AI](https://github.com/spring-projects/spring-ai)/[open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation)/[Kueue](https://github.com/kubernetes-sigs/kueue).
 
 <hr style="height:1px;border:none;border-top:1px dashed blue;" />
 
