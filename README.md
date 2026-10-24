@@ -20,39 +20,13 @@ Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 
 <h4>Project Exploration</h4>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/use"><b>use</b> ↗</a> &nbsp;<code>Config</code>
-      <br><br>
-      Organizing with IDEA and Mac &amp; windows and vim.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/typo"><b>Typo</b> ↗</a> &nbsp;<code>Go / CLI</code>
-      <br><br>
-      A cross-platform cli tool, Like thefuck, but he uses Go to implement it more intelligently.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/bsp;<code>Editor</code>
-      <br><br>
-      A cross-platform Markdown editor provperience.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/atai"><b>@ai</b> ↗</a> &nbsp;<code>AI / Shell</code>
-      <br><br>
-      AI-assisted shell command review tool.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/t-writing</b> ↗</a>&nbsp;<code>Skills</code>
-      <br><br>
-      Skills for writing, rewriting, proofreading, or reviewing Chinese technical documentation and related   product and UI copy.
-    </td>                                                                                                         <td width="50%" valign="top">
-      <a href="https://github.com/yuluo-yx/k3s-in-docker"><b>k8s-in-docker</b> ↗</a> &nbsp;<code>DevOps</code>      <br><br>
-      Run a standalone k3s cluster using Docker, suitable for local development and service testing, skipping kind and minikube.
-    </td>
-  </tr>
-</table>
+<h4>Project Exploration</h4>
+
+<ul style="line-height: 1.8;">
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/use">use</a> — Organizing with IDEA and Mac & windows and vim.</li>
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/typo">Typo</a> — A cross-platform cli tool, Like thefuck, but he uses Go to implement it more intelligently.</li>
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/mory">Mory</a> — A cross-platform Markdown editor providing a WYSIWYG writing experience.</li>
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/atai">@ai</a> — AI-assisted shell command review tool.</li>
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/skills">chinese-document-writing</a> — Skills for writing, rewriting, proofreading, or reviewing Chinese technical documentation and related product and UI copy.</li>
+  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/k3s-in-docker">k8s-in-docker</a> — Run a standalone k3s cluster using Docker, suitable for local development and service testing, skipping kind and minikube.</li>
+</ul>
