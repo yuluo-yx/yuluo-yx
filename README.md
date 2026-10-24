@@ -20,13 +20,9 @@ Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 
 <h4>Project Exploration</h4>
 
-<h4>Project Exploration</h4>
-
-<ul style="line-height: 1.8;">
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/use">use</a> — Organizing with IDEA and Mac & windows and vim.</li>
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/typo">Typo</a> — A cross-platform cli tool, Like thefuck, but he uses Go to implement it more intelligently.</li>
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/mory">Mory</a> — A cross-platform Markdown editor providing a WYSIWYG writing experience.</li>
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/atai">@ai</a> — AI-assisted shell command review tool.</li>
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/skills">chinese-document-writing</a> — Skills for writing, rewriting, proofreading, or reviewing Chinese technical documentation and related product and UI copy.</li>
-  <li><a style="text-decoration: none; color: rgb(65, 135, 207);" href="https://github.com/yuluo-yx/k3s-in-docker">k8s-in-docker</a> — Run a standalone k3s cluster using Docker, suitable for local development and service testing, skipping kind and minikube.</li>
-</ul>
+- [`use`](https://github.com/yuluo-yx/use) · Dev environments & dotfiles for macOS, Windows, IDEA & Vim
+- [`Typo`](https://github.com/yuluo-yx/typo) · Smart command corrector written in Go (a modern *thefuck* alternative)
+- [`Mory`](https://github.com/yuluo-yx/mory) · Cross-platform Markdown editor with a seamless WYSIWYG experience
+- [`@ai`](https://github.com/yuluo-yx/atai) · AI-powered CLI assistant for inspecting and reviewing shell commands
+- [`skills`](https://github.com/yuluo-yx/skills) · AI Coding Tools skills for Chinese technical writing & UI copywriting
+- [`k8s-in-docker`](https://github.com/yuluo-yx/k3s-in-docker) · Lightweight standalone K3s cluster in Docker, skipping Minikube/Kind
