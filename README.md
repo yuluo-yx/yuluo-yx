@@ -1,4 +1,4 @@
-<a href="https://trendshift.io" target="_blank" rel="noopener noreferrer">
+<a href="https://trendshift.io/developers/8831" target="_blank" rel="noopener noreferrer">
   <img src="https://trendshift.io/api/badge/developers/8831" alt="yuluo-yx | Trendshift" width="250" height="55" align="right" style="float: right; margin-left: 0px;" />
 </a>
 
