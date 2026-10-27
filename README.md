@@ -1,14 +1,18 @@
-I'm **Shown**; you can also call me **Musheng**. <br>
+<a href="https://trendshift.io" target="_blank" rel="noopener noreferrer">
+  <img src="https://trendshift.io/api/badge/developers/8831" alt="yuluo-yx | Trendshift" width="250" height="55" align="right" style="float: right; margin-left: 0px;" />
+</a>
 
-<a href="https://trendshift.io/developers/8831?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-8831" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/8831" alt="yuluo-yx | Trendshift" width="250" height="55"/></a>
+I'm **Shown**; you can also call me **Musheng**.
 
-I like open source and all interesting things and want to try to do it. <br>
+I like open source and all interesting things and want to try to do it.  
 I want to be interesting and create something that others can remember.
 
-I'm interested in Java & Go. <br>
-I'm learning and exploring **AI & Traffic management & MicroServices** <br>
+I'm interested in Java & Go.  
+I'm learning and exploring **AI & Traffic management & MicroServices**
 
 Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
+
+<div style="clear: both;"></div>
 
 <hr>
 
