@@ -1,4 +1,7 @@
 I'm **Shown**; you can also call me **Musheng**. <br>
+
+<a href="https://trendshift.io/developers/8831?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-8831" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/8831" alt="yuluo-yx | Trendshift" width="250" height="55"/></a>
+
 I like open source and all interesting things and want to try to do it. <br>
 I want to be interesting and create something that others can remember.
 
