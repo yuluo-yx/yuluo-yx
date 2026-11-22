@@ -31,5 +31,5 @@ Currently working on Java AI Agent Framework & k8s GPU scheduling infra.
 - [`Typo`](https://github.com/yuluo-yx/typo) · Smart command corrector written in Go (a modern *thefuck* alternative)
 - [`Mory`](https://github.com/yuluo-yx/mory) · Cross-platform Markdown editor with a seamless WYSIWYG experience
 - [`@ai`](https://github.com/yuluo-yx/atai) · AI-powered CLI assistant for inspecting and reviewing shell commands
-- [`skills`](https://github.com/yuluo-yx/skills) · AI Coding Tools skills for Chinese technical writing & UI copywriting
+- [`skills`](https://github.com/yuluo-yx/chinese-document-writing) · AI Coding Tools skills for Chinese technical writing & UI copywriting
 - [`k8s-in-docker`](https://github.com/yuluo-yx/k3s-in-docker) · Lightweight standalone K3s cluster in Docker, skipping Minikube/Kind
